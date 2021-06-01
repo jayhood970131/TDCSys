@@ -1,0 +1,11 @@
+D:\Codes\cs\project\TDC_Collect\bin\Debug\TDC_Collect.exe.config
+D:\Codes\cs\project\TDC_Collect\bin\Debug\TDC_Collect.exe
+D:\Codes\cs\project\TDC_Collect\bin\Debug\TDC_Collect.pdb
+D:\Codes\cs\project\TDC_Collect\obj\Debug\TDC_Collect.csprojAssemblyReference.cache
+D:\Codes\cs\project\TDC_Collect\obj\Debug\TDC_Collect.Form1.resources
+D:\Codes\cs\project\TDC_Collect\obj\Debug\TDC_Collect.Properties.Resources.resources
+D:\Codes\cs\project\TDC_Collect\obj\Debug\TDC_Collect.csproj.GenerateResource.cache
+D:\Codes\cs\project\TDC_Collect\obj\Debug\TDC_Collect.csproj.CoreCompileInputs.cache
+D:\Codes\cs\project\TDC_Collect\obj\Debug\TDC_Collect.exe
+D:\Codes\cs\project\TDC_Collect\obj\Debug\TDC_Collect.pdb
+D:\Codes\cs\project\TDC_Collect\obj\Debug\TDC_Collect.ChannelSave.resources
